@@ -155,7 +155,7 @@ function sendCommand(frame_bits[24]):
 
 3. **Protocol identity unconfirmed.** The signal (24-bit PWM, 433.92 MHz ASK, static code) is consistent with the A-OK AC114/AC123 family but has not been definitively verified against that spec.
 
-4. **Not hardware-verified.** The decoded frames have not yet been transmitted back to an actual Gumax lighting unit to confirm they trigger the correct actions.
+4. **Hardware-verified.** The decoded frames have been transmitted back to an actual Gumax lighting unit via a Homey app and confirmed to trigger the correct actions.
 
 ---
 
