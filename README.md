@@ -2,7 +2,7 @@
 
 > Reverse engineered from 10 VCD captures via Homey built-in 433 MHz receiver.
 > All captures decoded at 100% confidence with consistent 24-bit frames.
-> Intended for Homey app implementation.
+> **Protocol verified and implemented in a working Homey app.**
 
 ---
 
